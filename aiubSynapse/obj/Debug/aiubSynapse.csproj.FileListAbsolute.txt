@@ -1,0 +1,64 @@
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe.config
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.pdb
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.Properties.Resources.resources
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.exe
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.pdb
+\\Mac\Home\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.facDashboard.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe.config
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.pdb
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.AssemblyReference.cache
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.Properties.Resources.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.GenerateResource.cache
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.CoreCompileInputs.cache
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.exe
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.pdb
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminDashboard.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.profile.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.landingPage.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.signIn.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.signUp.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.dashboard.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.createPost.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.messagingInterface.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.updatePost.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.feedBack.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.profileOthersView.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminUserManagement.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminFeedback.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.changePass.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.forgetPass.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminProfile.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.updateProfile.resources
+C:\Users\Khatune Jannat\Desktop\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.addToAdmin.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe.config
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.exe
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\bin\Debug\aiubSynapse.pdb
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.addToAdmin.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminDashboard.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminProfile.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminUserManagement.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.adminFeedback.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.changePass.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.dashboard.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.feedBack.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.forgetPass.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.createPost.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.landingPage.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.messagingInterface.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.profile.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.profileOthersView.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.Properties.Resources.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.signIn.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.signUp.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.updatePost.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.updateProfile.resources
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.exe
+\\Mac\Home\Downloads\aiubSynapse\aiubSynapse\obj\Debug\aiubSynapse.pdb
